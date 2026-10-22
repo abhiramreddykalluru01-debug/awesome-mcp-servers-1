@@ -519,6 +519,10 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
 
+### Testing & Verification
+
+- [QAmcp](https://github.com/QAmcp/qamcp-cli) - Automated CLI test runner and security scanner for MCP servers. Probes lifecycle handshakes, tool schemas, indirect prompt injections, and secret leaks in one terminal command.
+
 <br />
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
